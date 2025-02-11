@@ -290,13 +290,13 @@
 
 ## Sobre
 
-Projeto desenvolvido para o Tech Challenge da fase 03 na PosTech da FIAP do curso Full Stack Development.
+Projeto desenvolvido para o Tech Challenge da fase 04 na PosTech da FIAP do curso Full Stack Development.
 
 ## /01-documentations
 
 Contém arquivos da documentação principal do projeto.
 
-- Link do [notion](https://www.notion.so/TC03-Dinamiques-conhecimento-ao-alcance-de-todos-124c70b6763a80ad9574df9c75ae4acb?pvs=4)
+- Link do [notion](https://www.notion.so/TC04-Dinamiques-conhecimento-ao-alcance-de-todos-15cc70b6763a807bad0bd2383c7ca32a?pvs=4)
 
 ## /02-ddd
 
